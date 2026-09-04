@@ -1,8 +1,8 @@
 # KAMBA++
 
-Official experimental implementation for the manuscript **“A Normalization-Free APT Detection Scheme Based on Sparse KAN and Selective State-Space Learning.”**
+Official experimental implementation for the manuscript **“A Normalization-Free APT Detection Scheme Based on Gated Selective State-Space Learning.”**
 
-KAMBA++ combines Enhanced Dynamic Tanh (EDyT), a Sparse Kolmogorov–Arnold Network (SKAN), a SwiGLU branch, a Dual-Gated Selective State-Space Model (DSSSM), an adaptive controller, and learned adaptive fusion for binary malicious-traffic detection.
+ In this paper, we propose KAMBA++, a novel normalization-free sequence-learning architecture for APT and network-intrusion detection. KAMBA++ combines Enhanced Dynamic Tanh (EDyT), a Sparse Kolmogorov–Arnold Network (SKAN), a SwiGLU branch, a Dual-Gated Selective State-Space Model (DSSSM), an adaptive controller, and learned adaptive fusion for binary malicious-traffic detection.
 
 ## Repository contents
 
